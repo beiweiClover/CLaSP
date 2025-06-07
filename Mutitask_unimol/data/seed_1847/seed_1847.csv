@@ -1,0 +1,4 @@
+SMILES,F50,PPB,CYP3A4_substrate,CYP3A4_inhibitor,CYP2D6_substrate,CYP2C9_inhibitor,CLp_c,FDAMDD_c,DILI,Micronucleus,Reproductive_toxicity,Ames,BSEP_inhibitor,VDss,Pgp_inhibitor,Neurotoxicity,dataset_type
+CC(C)OC(=O)CCCC=CCC1C(O)CC(O)C1CCC(O)CCc1ccccc1,1,0,1,0,1,0,0,1,0,0,1,0,0,0.2,0,0,train
+NC(=O)N/N=C/c1ccc([N+](=O)[O-])o1,1,0,1,0,1,0,0,1,0,0,1,0,0,0.3,0,0,val
+CNC(=O)O/N=C/C(C)(C)SC,1,0,1,0,1,0,0,1,0,0,1,0,0,0.4,0,0,test

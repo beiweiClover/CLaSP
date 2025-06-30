@@ -9,7 +9,7 @@ We provide an online web-based platform for direct access:
 **🌐 [https://lmmd.ecust.edu.cn/CLaSP](https://lmmd.ecust.edu.cn/CLaSP)**
 ### ⚠️ Notice on Access Restrictions
 
-**Due to the university server policy, this platform is accessible only between _8:00 AM and 6:00 PM Beijing Time (BJT)_.**  
+**Due to the server policy of East China University of Science and Technology (华东理工大学), this platform is accessible only between _8:00 AM and 6:00 PM Beijing Time (BJT)_.**  
 **Outside of these hours, access is restricted to on-campus users only.**
 
 ## Repository Structure

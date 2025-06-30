@@ -7,10 +7,12 @@ This repository contains the implementation of the paper **CLaSP: A Contrastive 
 
 We provide an online web-based platform for direct access:
 **🌐 [https://lmmd.ecust.edu.cn/CLaSP](https://lmmd.ecust.edu.cn/CLaSP)**
-### ⚠️ Notice on Access Restrictions
+###⚠️ Notice on Access Restrictions
 
+**We sincerely apologize for any inconvenience.**  
 **Due to the server policy of East China University of Science and Technology (华东理工大学), this platform is accessible only between _8:00 AM and 6:00 PM Beijing Time (BJT)_.**  
-**Outside of these hours, access is restricted to on-campus users only.**
+**Outside of these hours, access is restricted to on-campus users only.**  
+_This limitation is enforced by university policy and is not under our direct control. Thank you for your understanding._
 
 ## Repository Structure
 

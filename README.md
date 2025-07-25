@@ -42,13 +42,16 @@ Each folder contains detailed README documentation. Please check the specific us
 If you use this project in your research, please cite our paper:
 
 ```bibtex
-@article{clasp2024,
-  title={CLaSP: A Contrastive Learning-Guided Latent Scoring Platform for Comprehensive Drug-Likeness Evaluation},
-  author={[Author Information]},
-  journal={[Journal Information]},
-  year={2024}
+@article{CLaSP2025,
+title={CLaSP: A Contrastive Learning-Guided Latent Scoring Platform for Comprehensive Drug-Likeness Evaluation},
+author={Xinmin Li, Long Chen, Hongbo Yu, Le Xiong, Wenxiang Song, Xiang Li, Guixia Liu, Weihua Li, Yun Tang},
+journal={Journal of Medicinal Chemistry},
+year={2025},
+note={Accepted for publication}
 }
 ```
+This work has been **accepted for publication** in *Journal of Medicinal Chemistry* (2025).  
+We will update the DOI and link once the final version is available.
 
 ## Contact
 

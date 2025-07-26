@@ -44,10 +44,10 @@ If you use this project in your research, please cite our paper:
 ```bibtex
 @article{CLaSP2025,
 title={CLaSP: A Contrastive Learning-Guided Latent Scoring Platform for Comprehensive Drug-Likeness Evaluation},
-author={Xinmin Li, Long Chen, Hongbo Yu, Le Xiong, Wenxiang Song, Xiang Li, Guixia Liu, Weihua Li, Yun Tang},
+author={Xinmin Li and Long Chen and Hongbo Yu and Le Xiong and Wenxiang Song and Xiang Li and Guixia Liu and Weihua Li and Yun Tang},
 journal={Journal of Medicinal Chemistry},
 year={2025},
-note={Accepted for publication}
+doi={10.1021/acs.jmedchem.5c01618}
 }
 ```
 This work has been **accepted for publication** in *Journal of Medicinal Chemistry* (2025).  
